@@ -1,0 +1,14 @@
+[
+  { "id": 1,  "name": "Ocelote joven", "description": "Cachorro de la selva, material de fusión.", "type": "monster", "attribute": "tierra", "tags": ["jaguar", "bestia"], "atk": 800, "def": 600 },
+  { "id": 2,  "name": "Macehual con macuahuitl", "description": "Guerrero del pueblo armado con obsidiana.", "type": "monster", "attribute": "tierra", "tags": ["guerrero"], "atk": 900, "def": 700 },
+  { "id": 3,  "name": "Guerrero Jaguar", "description": "Élite de la noche. Más fuerte al atacar de noche.", "type": "monster", "attribute": "tierra", "tags": ["guerrero", "jaguar"], "atk": 1800, "def": 1400 },
+  { "id": 4,  "name": "Guerrero Águila", "description": "Élite del sol. Al ser invocado por fusión, roba 1 carta.", "type": "monster", "attribute": "sol", "tags": ["guerrero", "ave", "sol"], "atk": 1700, "def": 1500 },
+  { "id": 5,  "name": "Xiuhcóatl", "description": "Serpiente de fuego. Al ser invocada, 500 de daño al rival.", "type": "monster", "attribute": "sol", "tags": ["serpiente", "fuego", "sol"], "atk": 2200, "def": 1600 },
+  { "id": 6,  "name": "Tláloc", "description": "Señor de la lluvia. Aliados de agua +300 ATK.", "type": "monster", "attribute": "agua", "tags": ["deidad", "agua"], "atk": 2600, "def": 2400 },
+  { "id": 7,  "name": "Mictlantecuhtli", "description": "Señor del Mictlán. Al ser destruido, revive un monstruo de muerte.", "type": "monster", "attribute": "tierra", "tags": ["deidad", "muerte"], "atk": 2800, "def": 2000 },
+  { "id": 8,  "name": "Quetzalcóatl", "description": "Serpiente emplumada. Solo por fusión específica.", "type": "monster", "attribute": "viento", "tags": ["deidad", "serpiente", "ave", "viento"], "atk": 3000, "def": 2500 },
+  { "id": 9,  "name": "Colibrí guerrero", "description": "Mensajero veloz del sur.", "type": "monster", "attribute": "viento", "tags": ["ave"], "atk": 500, "def": 400 },
+  { "id": 10, "name": "Serpiente de lago", "description": "Habita los canales de Tenochtitlan.", "type": "monster", "attribute": "agua", "tags": ["serpiente", "agua"], "atk": 700, "def": 900 },
+  { "id": 11, "name": "Xoloitzcuintle", "description": "Guía de las almas rumbo al Mictlán.", "type": "monster", "attribute": "tierra", "tags": ["bestia", "muerte"], "atk": 1000, "def": 800 },
+  { "id": 12, "name": "Sacerdote del Fuego Nuevo", "description": "Guardián del ritual de los 52 años.", "type": "monster", "attribute": "sol", "tags": ["fuego"], "atk": 600, "def": 1200 }
+]
